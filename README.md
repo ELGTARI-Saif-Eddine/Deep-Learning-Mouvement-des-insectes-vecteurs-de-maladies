@@ -33,6 +33,6 @@ Ces maladies parasitaires se présentent dans deux types: la leishmaniose cutan�
 ## _Caractérisation des phlébotomes parmi d’autres insectes_ 
 ![alt text](https://github.com/ELGTARI-Saif-Eddine/Mouvement-des-insectes-vecteurs-de-maladies/blob/main/images/g.png)
 
-**Contact: **  saif.gtari@gmail.com
+_Contact_:  saif.gtari@gmail.com
 
 
