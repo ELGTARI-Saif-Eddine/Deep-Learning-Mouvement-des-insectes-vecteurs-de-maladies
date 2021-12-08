@@ -8,7 +8,7 @@ Dans  ce  document,  nous  présentons  une  description  d’une  approche qui 
 Les phlébotomessont des diptèresde la famille des Psychodidés, ils sont morphologiquement  proches des moustiquesmais avec untrès petite taille qui ne dépasse pas le 3 mm, leur couleur est très pale ce qu’il les rend à peine vu surtout avec leur  volextrêmement silencieux, rapide et saccadé. Leurs ailles velues en forme de V, leurs thorax bossuset leurs yeux noirs peuvent aider à les caractériserparmi d’autresinsectes.
 
 ## _Un phlébotome femelle_
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## _Leishmaniose, (a) viscérale, (b) cutanée_
 Ces maladies parasitaires se présentent dans deux types: la leishmaniose cutanée et la leishmaniose viscérale. C’est une maladie vectorielle (transmise par un être vivant) causée par la transmission d’un parasite protozoaire.
 
