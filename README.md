@@ -1,7 +1,7 @@
 
 # Mouvement des insectes vecteurs de maladies 
 ## _TOOLS_
-Ce projet est développé avec python et implémenté sur raspberry pi.
+Ce projet est développé avec python et implémenté sur raspberry pi
 
 **Mots Clés:** python, Eclipse, linux (ubuntu 20.04), raspberry pi, deep learning
 ## _Approche choisie et contributions_
